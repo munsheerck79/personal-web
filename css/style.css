@@ -472,7 +472,7 @@ a.banner-button2 {
 }
 
 .banner {
-    background: url("images/banner.jpeg") no-repeat center;
+    background: url("https://github.com/munsheerck79/personal-web/blob/main/images/banner.jpeg") no-repeat center;
     background-size: cover;
     position: relative;
 }
